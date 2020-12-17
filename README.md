@@ -1,5 +1,5 @@
-# chat-app
+# Chat-App
 A realtime chat app build using nodeJs and socket.io
-# usage
+# Usage
 npm install
 npm run start
