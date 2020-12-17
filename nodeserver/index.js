@@ -1,3 +1,4 @@
+// install nodemon in the nodeserver folder
 //node server which will handle socket io connections
 var app=require('express')();
 var http=require('http').Server(app);
